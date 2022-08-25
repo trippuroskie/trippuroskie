@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trippuroskie
 
-- 👀 I’m interested in learning about basically anything. I'm also interested in getting outside whether it be snowboarding, biking, trail running, hiking, climbing or surfing.
+- 👀 I’m interested in learning about basically everything. I'm also interested in getting outside whether it be snowboarding, biking, trail running, hiking, climbing or surfing.
         I'd like to be able to live a life balanced with technology and the nature world.
         
 - 🌱 I’m currently learning python, CSS, HTML, javascript, DAX
